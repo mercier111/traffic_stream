@@ -13,4 +13,4 @@ def get_gif(step=0.2):
         else:
             pass
     imageio.mimsave(gif_name, frames, 'GIF', duration=step)
-print(111112313)
+print(1111123135463)
